@@ -134,7 +134,7 @@ int main(){
 	// v1= 41 6334 18467 19169 26500
 	
 
-	// 17. sort(vv.begin(), vv.end(), greater <int> ()) --> sorts the vector in ascending order
+	// 17. sort(vv.begin(), vv.end(), greater <int> ()) --> sorts the vector in descending order
 	vector <int> v2;
 	for(int i=0; i<5; i++){
 		v2.push_back(rand());
